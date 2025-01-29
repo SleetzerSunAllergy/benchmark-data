@@ -1,5 +1,5 @@
 {
-    "CPUs": [
+    "CPU": [
         {
             "name": "AMD Ryzen 9 7950X",
             "benchmark_score": 61234
@@ -197,7 +197,7 @@
             "benchmark_score": 8209
         }
     ],
-    "GPUs": [
+    "GPU": [
         {
             "name": "NVIDIA GeForce RTX 4090",
             "benchmark_score": 61178
